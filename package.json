@@ -1,0 +1,22 @@
+{
+  "name": "example-pimatic-api-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aap82/example-pimatic-api-request.git"
+  },
+  "author": "ap",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aap82/example-pimatic-api-request/issues"
+  },
+  "homepage": "https://github.com/aap82/example-pimatic-api-request#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
